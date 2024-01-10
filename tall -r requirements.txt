@@ -1,0 +1,49 @@
+[33mcommit 2fd96c4b3452e2b2386480f22beb2a6cbaf8def8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rez3t45 <68755317+rez3t45@users.noreply.github.com>
+Date:   Wed Jan 10 14:56:43 2024 -0500
+
+    Update help_me.md
+    
+    prb
+
+[33mcommit ef7eb30a138b80a1a35c2ef4e8133ba703aaee98[m
+Author: rez3t45 <necrodeathastm@gmail.com>
+Date:   Mon Jan 8 13:52:02 2024 -0500
+
+    PermanenciaCLI
+
+[33mcommit 567b19fc6d9bce446b7ad4677a0e9462e274687b[m
+Author: rez3t45 <necrodeathastm@gmail.com>
+Date:   Fri Dec 29 13:04:40 2023 -0500
+
+    cost health personal
+
+[33mcommit 798abe229c98b509decec15f5f5af7af80c06716[m
+Author: rez3t45 <necrodeathastm@gmail.com>
+Date:   Fri Dec 29 03:03:04 2023 -0500
+
+    models LR DT RF
+
+[33mcommit 127d2ec96d8aa8ede68b7dd948bab460d02db62c[m
+Author: rez3t45 <necrodeathastm@gmail.com>
+Date:   Wed Dec 27 13:54:28 2023 -0500
+
+    medical cost models
+
+[33mcommit 540cc6893049cbe5a25e9a7f6326c18bc93c249c[m
+Author: rez3t45 <necrodeathastm@gmail.com>
+Date:   Wed Dec 27 02:38:00 2023 -0500
+
+    eda
+
+[33mcommit 37f17ef1917f85c4ceef04541494269423d3f92a[m
+Author: rez3t45 <necrodeathastm@gmail.com>
+Date:   Tue Dec 26 13:04:50 2023 -0500
+
+    second
+
+[33mcommit 8fa1cf33cfd0b9873cd15b8c969c0d47b009a1ff[m
+Author: rez3t45 <necrodeathastm@gmail.com>
+Date:   Tue Dec 26 12:39:29 2023 -0500
+
+    fist
