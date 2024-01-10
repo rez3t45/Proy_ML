@@ -15,3 +15,4 @@ add manual: pip install scipy
 # error al instalar regressors
   solucion: pip install --upgrade pip setuptools==57.5.0
   pip install regressors
+  
